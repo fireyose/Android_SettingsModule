@@ -9,6 +9,10 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
+    /**
+     * Sets activity layout, toolbar, and toolbar support
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
